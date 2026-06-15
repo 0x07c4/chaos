@@ -1,0 +1,6 @@
+build/
+iso_root/
+*.iso
+*.elf
+*.o
+limine/
